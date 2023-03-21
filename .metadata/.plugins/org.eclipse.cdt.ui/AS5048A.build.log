@@ -1,0 +1,10 @@
+01:29:50 **** Incremental Build of configuration Debug for project AS5048A ****
+make -j8 all 
+arm-none-eabi-size   AS5048A.elf 
+   text	   data	    bss	    dec	    hex	filename
+  28720	    484	   1908	  31112	   7988	AS5048A.elf
+Finished building: default.size.stdout
+ 
+
+01:29:50 Build Finished. 0 errors, 0 warnings. (took 294ms)
+
